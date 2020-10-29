@@ -121,7 +121,7 @@ namespace Lab_1__Excel
             }
             
         }
-       private void SetValue(Cell cell )
+       public void SetValue(Cell cell )
         {
             try
             {

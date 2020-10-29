@@ -70,8 +70,7 @@ namespace ExcelClassLibrary
             get { return valueDouble; }
             set { valueDouble = value; }
         }
-        
-        
+               
         public object Value
         {
             get { if (identifierValue == true)

@@ -16,7 +16,7 @@ namespace ExcelClassLibrary
         private int rowsCount;
         public List<List<Cell>> table = new List<List<Cell>>();
         public Dictionary<string, string> dictionary = new Dictionary<string, string>();
-        public bool LoopIdentifier = false;
+       
         public int ColumnsCount
         {
             get { return columnsCount; }

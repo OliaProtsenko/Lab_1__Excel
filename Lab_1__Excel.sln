@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab_1__Excel", "Lab_1__Exce
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExcelClassLibrary", "ExcelClassLibrary\ExcelClassLibrary.csproj", "{AA5E068B-C3B9-48EC-A39C-97DB9222A01E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab_1__ExcelTest", "Lab_1__ExcelTest\Lab_1__ExcelTest.csproj", "{F98FDC05-4E46-42DD-A5CC-BB27A6A16779}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{AA5E068B-C3B9-48EC-A39C-97DB9222A01E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AA5E068B-C3B9-48EC-A39C-97DB9222A01E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AA5E068B-C3B9-48EC-A39C-97DB9222A01E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F98FDC05-4E46-42DD-A5CC-BB27A6A16779}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F98FDC05-4E46-42DD-A5CC-BB27A6A16779}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F98FDC05-4E46-42DD-A5CC-BB27A6A16779}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F98FDC05-4E46-42DD-A5CC-BB27A6A16779}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
